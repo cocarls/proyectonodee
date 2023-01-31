@@ -4,7 +4,7 @@
   "description": "\"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo\".",
   "main": "index.js",
   "scripts": {
-    "start": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "start": "nodeindex.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
